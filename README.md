@@ -20,29 +20,14 @@ Focused on systems programming and open source.
 </p>
 
 ---
-## GitHub Stats
 
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=itssagarK&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssagarK&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-</table>
 ## GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itssagarK&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itssagarK&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itssagarK&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itssagarK&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
