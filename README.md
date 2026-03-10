@@ -8,7 +8,8 @@ B.Tech Computer Science student from India.
 
 Interested in how software works **under the hood**, especially systems programming and cross-platform desktop applications.
 
-Currently learning by **reading real codebases and building projects**.
+Currently learning by reading real codebases and building projects.
+Focused on systems programming and open source.
 
 ---
 
@@ -31,6 +32,9 @@ Currently learning by **reading real codebases and building projects**.
 </p>
 
 ---
+
+
+
 
 ## Activity
 
