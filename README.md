@@ -5,10 +5,16 @@
 
 ## About
 
-Hi, I'm Sagar  
-- Systems Programming Enthusiast | Open Source Contributor  
-- Building cross-platform desktop tools with C++ & Node.js  
-- Focused on low-level understanding and real-world codebases
+**I learn by working on real systems and contributing to open source.**
+
+- Actively contributing to open source projects  
+- Building real-world applications to improve practical skills  
+- Exploring systems concepts through C/C++  
+
+**Currently focused on:**
+- Full stack development (Node.js, TypeScript)  
+- Writing clean and maintainable code  
+- Understanding how systems work under the hood  
 ---
 
 ## Tech Stack
@@ -18,7 +24,24 @@ Hi, I'm Sagar
 </p>
 
 ---
+## Featured Projects
 
+### [NeutralKit](https://github.com/itssagarK/neutralkit) - A System dashboard built for contributers of Neutralinojs
+
+A lightweight dashboard built with Neutralinojs that:
+
+- Visualizes real system data using native APIs,
+- Tracks open-source contributions interactively,
+- Demonstrates how lightweight desktop apps can be built without Chromium  
+
+👉 https://github.com/itssagarK/neutralkit
+
+### (Add 2–3 more projects)
+- Brief description
+- What problem it solves
+- Link
+  
+---
 ## GitHub Stats
 
 <p align="center">
