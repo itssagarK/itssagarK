@@ -4,13 +4,10 @@
 
 ## About
 
-B.Tech Computer Science student from India.
-
-Interested in how software works **under the hood**, especially systems programming and cross-platform desktop applications.
-
-Currently learning by reading real codebases and building projects.
-Focused on systems programming and open source.
-
+Hi, I'm Sagar  
+Systems Programming Enthusiast | Open Source Contributor  
+Building cross-platform desktop tools with C++ & Node.js  
+Focused on low-level understanding and real-world codebases
 ---
 
 ## Tech Stack
