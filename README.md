@@ -30,13 +30,15 @@
 
 A lightweight dashboard built with Neutralinojs that:
 
-- Visualizes real system data using native APIs of Neutralinojs
-- Helps organize your goals and contributions interactively
-- Makes editing easy with history an recovery features 
+- Visualizes real system data using native APIs  
+- Helps track and organize contributions interactively  
+- Includes history and recovery features for better usability  
 
 ### [ArthaMitra](https://github.com/itssagarK/aarthmitraa) -Arth Mitra is an AI-powered, gamified financial literacy app built for everyday Indians
 
-Arth Mitra puts you in the shoes of a real Indian persona and presents financial decisions you'd actually face — broken phone, tempting EMIs, unexpected expenses. Every choice has consequences tracked across Savings, Joy, Health, and Relations stats.
+- Simulates real-life financial decisions (EMIs, expenses, trade-offs)  
+- Tracks impact across Savings, Health, Joy, and Relationships  
+- Designed for practical financial awareness through interaction  
   
 ---
 ## GitHub Stats
