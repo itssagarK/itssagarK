@@ -34,7 +34,7 @@ A lightweight dashboard built with Neutralinojs that:
 - Helps track and organize contributions interactively  
 - Includes history and recovery features for better usability  
 
-### [ArthaMitra](https://github.com/itssagarK/aarthmitraa) -Arth Mitra is an AI-powered, gamified financial literacy app built for everyday Indians
+### [ArthaMitra](https://github.com/itssagarK/aarthmitraa) - Arth Mitra is an AI-powered, gamified financial literacy app built for everyday Indians
 
 - Simulates real-life financial decisions (EMIs, expenses, trade-offs)  
 - Tracks impact across Savings, Health, Joy, and Relationships  
