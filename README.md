@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="banner3.png" alt="Sagar Banner" width="100%" />
+  <img src="banner.png" alt="Sagar Banner" width="100%" />
 </p>
----
+<br>
 
 ## About
 
