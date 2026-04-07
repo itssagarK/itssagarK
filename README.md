@@ -5,9 +5,9 @@
 ## About
 
 Hi, I'm Sagar  
-Systems Programming Enthusiast | Open Source Contributor  
-Building cross-platform desktop tools with C++ & Node.js  
-Focused on low-level understanding and real-world codebases
+- Systems Programming Enthusiast | Open Source Contributor  
+- Building cross-platform desktop tools with C++ & Node.js  
+- Focused on low-level understanding and real-world codebases
 ---
 
 ## Tech Stack
