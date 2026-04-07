@@ -1,5 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00F79A&center=true&vCenter=true&width=900&lines=Hi+I'm+Sagar;B.Tech+CSE+student;Exploring+systems+and+open+source;Learning+by+reading+real+codebases" />
-
+<p align="center">
+  <img src="banner.png" alt="Sagar Banner" />
+</p>
 ---
 
 ## About
