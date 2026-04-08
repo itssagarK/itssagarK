@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Sagar Banner" width="100%" />
+  <img src="banner0.png" alt="Sagar Banner" width="100%" />
 </p>
 <br>
 
