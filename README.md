@@ -38,10 +38,10 @@ A lightweight dashboard built with Neutralinojs that:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itssagarK&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itssagarK&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itssagarK&layout=compact&theme=tokyonight&hide_border=true"/>
-<img width="3000" height="300"  src="https://streak-stats.demolab.com?user=itssagarK&theme=tokyonight&hide_border=true"/>
+<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itssagarK&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="2800" height="290"  src="https://streak-stats.demolab.com?user=itssagarK&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
