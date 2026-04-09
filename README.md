@@ -5,16 +5,9 @@
 
 ## About
 
-**I learn by working on real systems and contributing to open source.**
-
-- Actively contributing to open source projects  
-- Building real-world applications to improve practical skills  
-- Exploring systems concepts through C/C++  
-
-**Currently focused on:**
-- Full stack development (Node.js, TypeScript)  
-- Writing clean and maintainable code  
-- Understanding how systems work under the hood  
+- I am, a B.Tech CSE student focused on becoming a full stack developer. 
+- I build real-world projects to gain practical experience, focusing on strong fundamentals and user-centered solutions.
+- I am also interested in contributing to meaningful open source projects.
 ---
 
 ## Tech Stack
