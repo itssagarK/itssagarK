@@ -32,7 +32,16 @@ A lightweight dashboard built with Neutralinojs that:
 - Simulates real-life financial decisions (EMIs, expenses, trade-offs)  
 - Tracks impact across Savings, Health, Joy, and Relationships  
 - Designed for practical financial awareness through interaction  
-  
+
+### [Reality Check AI](https://github.com/itssagarK/Reality-check-2) - A constraint-based planning audit tool that evaluates real-world feasibility
+
+A practical tool designed to analyze whether your plans will actually work based on time, resources, and execution limits:
+
+- Evaluates feasibility with a structured scoring system (0–100)
+- Identifies realistic failure points before execution begins
+- Analyzes dependencies, risks, and resource gaps
+- Suggests actionable alternative approaches
+- Defines clear stop signals to prevent wasted effort
 ---
 ## GitHub Stats
 
