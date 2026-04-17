@@ -44,15 +44,20 @@ A practical tool designed to analyze whether your plans will actually work based
 - Defines clear stop signals to prevent wasted effort
 ---
 ## GitHub Stats
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itssagark&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
+</td>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itssagark&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
+</td>
+</tr>
+</table>
 
 <p align="center">
-
-<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itssagarK&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itssagarK&layout=compact&theme=tokyonight&hide_border=true"/>
-<img width="2800" height="290"  src="https://streak-stats.demolab.com?user=itssagarK&theme=tokyonight&hide_border=true"/>
+<img width="850" src="https://streak-stats.demolab.com?user=itssagark&theme=tokyonight&hide_border=true" width="820"/>
 </p>
-
 ---
 
 
