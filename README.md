@@ -27,7 +27,7 @@ Design stunning websites in a visual editor and export ready-to-use HTML files:
 - Switch between light/dark modes and pick your colors instantly
 - Export and host anywhere for free (GitHub Pages, Vercel, Netlify)
 
-### [GitHub Helper](https://github.com/itssagarK/thought2markdown) - Turn messy notes into professional documentation
+### [GitHub Helper](https://github.com/itssagarK/githubhelper) - Turn messy notes into professional documentation
 Convert rough notes into polished README files, pull requests, and release notes:
 - Write naturally, get structured markdown automatically
 - Quick access to badges, license templates, and commit emojis
