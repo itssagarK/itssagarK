@@ -29,7 +29,7 @@
 - Convert your thoughts to markdowncode with live preview
 - (Profile Builder) Helps you build a visually appealling profile 
 - Built-in badges, templates, and GitHub Actions  
-- 
+- Templates for basic and advance - Readme, Pr, Issue etc
 ---
 ### [NeutralKit](https://github.com/itssagarK/neutralkit) - A System dashboard built for contributers of Neutralinojs
 
