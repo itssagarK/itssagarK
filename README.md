@@ -17,27 +17,21 @@
 </p>
 
 ---
-## Featured Projects
+##  Featured Projects
 
-### [FlowSite](https://github.com/itssagarK/flowsite) - Build websites visually, export clean HTML
-Design stunning websites in a visual editor and export ready-to-use HTML files:
-- Choose from templates for portfolios, projects, business sites, or app landing pages
-- Interactive 3D background that makes your site feel modern and alive
-- AI can auto-fill your info from a resume or photo
-- Switch between light/dark modes and pick your colors instantly
-- Export and host anywhere for free (GitHub Pages, Vercel, Netlify)
+### [FlowSite](https://github.com/itssagarK/flowsite) - Visual website builder that exports clean, ready-to-host HTML.
+- Templates for portfolios, business sites, and landing pages  
+- Interactive 3D backgrounds for modern UI  
+- AI-assisted content generation from resume/image  
+- One-click export (GitHub Pages, Vercel, Netlify)
 
-### [GitHub Helper](https://github.com/itssagarK/githubhelper) - Turn messy notes into professional documentation
-Convert rough notes into polished README files, pull requests, and release notes:
-- Write naturally, get structured markdown automatically
-- Quick access to badges, license templates, and commit emojis
-- GitHub Actions templates ready to copy
-- Everything works offline on your computer
-- No sign-ups, no tracking, completely private
-
+### [GitHub Helper](https://github.com/itssagarK/githubhelper) - Helps you to use GitHub in various ways possible
+- Convert your thoughts to markdowncode with live preview
+- (Profile Builder) Helps you build a visually appealling profile 
+- Built-in badges, templates, and GitHub Actions  
+- 
+---
 ### [NeutralKit](https://github.com/itssagarK/neutralkit) - A System dashboard built for contributers of Neutralinojs
-
-A lightweight dashboard built with Neutralinojs that:
 
 - Visualizes real system data using native APIs  
 - Helps track and organize contributions interactively  
