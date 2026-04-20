@@ -19,6 +19,22 @@
 ---
 ## Featured Projects
 
+### [FlowSite](https://github.com/itssagarK/flowsite) - Build websites visually, export clean HTML
+Design stunning websites in a visual editor and export ready-to-use HTML files:
+- Choose from templates for portfolios, projects, business sites, or app landing pages
+- Interactive 3D background that makes your site feel modern and alive
+- AI can auto-fill your info from a resume or photo
+- Switch between light/dark modes and pick your colors instantly
+- Export and host anywhere for free (GitHub Pages, Vercel, Netlify)
+
+### [GitHub Helper](https://github.com/itssagarK/thought2markdown) - Turn messy notes into professional documentation
+Convert rough notes into polished README files, pull requests, and release notes:
+- Write naturally, get structured markdown automatically
+- Quick access to badges, license templates, and commit emojis
+- GitHub Actions templates ready to copy
+- Everything works offline on your computer
+- No sign-ups, no tracking, completely private
+
 ### [NeutralKit](https://github.com/itssagarK/neutralkit) - A System dashboard built for contributers of Neutralinojs
 
 A lightweight dashboard built with Neutralinojs that:
