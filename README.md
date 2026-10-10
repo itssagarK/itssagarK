@@ -107,4 +107,4 @@ A practical tool designed to analyze whether your plans will actually work based
 </p>
 
 ---
-
+<img width="540" height="617" alt="image" src="https://github.com/user-attachments/assets/0529835a-e36d-405e-b667-e11f24a642e3" />
