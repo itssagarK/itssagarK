@@ -37,6 +37,14 @@
 - Fully offline and private: no cloud uploads, no account, no telemetry
 - Built with Flutter and Dart, with APK releases on GitHub
 
+### [PCS Meet Manager](https://github.com/itssagarK/meetManager) - Productivity workspace and Chrome side panel extension with built-in video calling
+
+- Independent WebRTC video calls with screen sharing and public guest rooms ([live demo](https://meetmanager-p55v.onrender.com))
+- Chrome Side Panel extension (Manifest V3) to manage tasks and meetings alongside Google Meet, Gmail, and Docs
+- Automated email invites with `.ics` calendar attachments
+- Mobile-friendly UI, keyboard shortcuts, Pomodoro timer, and one-click Slack/Teams standup export
+- Built with React, Vite, Node.js, and SQLite
+
 ### [GitHub Helper](https://github.com/itssagarK/githubhelper) - Helps you use GitHub in many different ways
 
 - Convert your thoughts to Markdown with live preview
