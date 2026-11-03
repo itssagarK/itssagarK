@@ -3,7 +3,7 @@
 </p>
 
 <br>
-
+---
 ## About
 
 - I am a B.Tech CSE student focused on becoming a full stack developer.
